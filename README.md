@@ -44,6 +44,22 @@
 
 
 
+
+
+ ## React Practice Project  
+
+
+|  #  | Project                                                                                                                     | Live Demo                                                                         |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 01  | [Simple Pagination Project ](https://github.com/kamrulcoder/simple-pagination-react)                             | [Live Demo](https://simple-pagination-react.netlify.app/)               |
+| 02  | [Javascript  Question ](https://github.com/kamrulcoder/javascript-questions)                               | [Live Demo]()    |
+
+
+
+
+
+
+
  ## Extra Important  Project  
 
 
