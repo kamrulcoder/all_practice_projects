@@ -1,9 +1,6 @@
 # All Practice Project 
 
 
-
- ## javascript vinalla javascript  practice 
-
  ## React Practice Project  
 
 
