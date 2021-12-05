@@ -16,6 +16,7 @@
 | 02  | [ait-training-institute](https://github.com/kamrulcoder/ait-training-institute) | [Live Demo](https://ait-edu.netlify.app/)    |
 | 02  | [reactjs-interview-questions](https://github.com/kamrulcoder/reactjs-interview-questions) | [Live Demo]()    |
 
+ ## Javascript Practice Project 
 
 |  SL NO.  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -34,14 +35,6 @@
 | 13  | [Accordion W3schools](https://github.com/kamrulcoder/accordion-w3schools)                               | [Live Demo](https://kamrulcoder.github.io/accordion-w3schools/)    |
 | 14  | [Cascading Dropdown List ](https://github.com/kamrulcoder/cascading-select-js)                               | [Live Demo](https://kamrulcoder.github.io/cascading-select-js/)    |
 | 15  | [Github User name  each fetch data  ](https://github.com/kamrulcoder/github-username-api)                               | [Live Demo](https://kamrulcoder.github.io/github-username-api/)    |
-
-
-
-
-                   
-
-
-
 
 
  ## Programming  Hero Practice Project 
